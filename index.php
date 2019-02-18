@@ -5,3 +5,5 @@ $x = 1;
 echo "hello vorld";
 echo $x;
 ?>
+
+which
